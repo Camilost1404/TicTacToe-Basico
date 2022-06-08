@@ -33,6 +33,42 @@ ul {
     width: 34px;
 }
 
+#square1{
+    border-top-style: none;
+    border-left-style: none;
+}
+
+#square2{
+    border-top-style: none;
+}
+
+#square3{
+    border-top-style: none;
+    border-right-style: none;
+}
+
+#square4{
+    border-left-style: none;
+}
+
+#square6{
+    border-right-style: none;
+}
+
+#square7{
+    border-bottom-style: none;
+    border-left-style: none;
+}
+
+#square8{
+    border-bottom-style: none;
+}
+
+#square9{
+    border-bottom-style: none;
+    border-right-style: none;
+}
+
 .square:focus {
     outline: none;
 }
